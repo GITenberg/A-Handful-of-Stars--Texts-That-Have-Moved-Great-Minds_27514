@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26266
     wikipedia: http://en.wikipedia.org/wiki/Frank_W._Boreham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27514#A-Handful-of-Stars--Texts-That-Have-Moved-Great-Minds
 gutenberg_issued: '2008-12-13'
 gutenberg_type: Text
 identifiers:
